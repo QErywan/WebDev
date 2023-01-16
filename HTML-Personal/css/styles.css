@@ -2,13 +2,18 @@ body {
     background-color: #E6E2C3;
 }
 
-h1, h3{
+h1, h3 {
     color: #1C315E;
+}
+
+h1:hover {
+    color: red;
 }
 
 p , td, th, li, label{
     color: #227C70;
 }
+
 
 hr {
     border-style: none;
