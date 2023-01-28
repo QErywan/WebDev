@@ -1,0 +1,20 @@
+#title {
+    background-color: #ff4c68;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.dog-img {
+    padding-top: 10%;
+    transform: rotate(20deg);
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+    font-style: bold;
+    padding-top: 5rem;
+}
